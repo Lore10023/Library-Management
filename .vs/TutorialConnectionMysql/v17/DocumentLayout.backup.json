@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lore\\Documents\\programming\\Database\\TutorialConnectionMysql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB18280-A161-4FD1-A0EB-424530D3C014}|TutorialConnectionMysql\\TutorialConnectionMysql.csproj|c:\\users\\lore\\documents\\programming\\database\\tutorialconnectionmysql\\tutorialconnectionmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB18280-A161-4FD1-A0EB-424530D3C014}|TutorialConnectionMysql\\TutorialConnectionMysql.csproj|solutionrelative:tutorialconnectionmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lore\\Documents\\programming\\Database\\TutorialConnectionMysql\\TutorialConnectionMysql\\Program.cs",
+              "RelativeDocumentMoniker": "TutorialConnectionMysql\\Program.cs",
+              "ToolTip": "C:\\Users\\Lore\\Documents\\programming\\Database\\TutorialConnectionMysql\\TutorialConnectionMysql\\Program.cs",
+              "RelativeToolTip": "TutorialConnectionMysql\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:51:11.991Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
