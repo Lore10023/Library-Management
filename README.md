@@ -23,6 +23,4 @@ Project developed in Visual Studio using C#, ADO.NET and a local database. The s
 ## Interface Design
 ![Screenshot 2025-05-24 173541](https://github.com/user-attachments/assets/78ca4314-62c8-40e1-9f02-399dcba2701b)
 ![Screenshot 2025-05-24 173650](https://github.com/user-attachments/assets/a4fc8d27-4b56-46ee-a8b2-4c4a4e89b3d0)
-
-
-
+![Student](https://github.com/user-attachments/assets/03343c00-61ec-41a0-9f6f-e06ce28ae1ee)
